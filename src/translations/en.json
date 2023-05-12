@@ -1,0 +1,148 @@
+{
+    "homeheader": {
+        "specialty": "Medical specialty",
+        "findDoctor": "Find a doctor by specialty",
+        "facility": "Health facilities",
+        "hospitalChoose": "Choose hospital clinic",
+        "doctor": "Doctor",
+        "doctorChoose": "Choose good doctor",
+        "checkup": "Checkup package",
+        "checkupHealth": "General health check",
+        "support": "Support",
+        "welcome": "Welcome  "
+    },
+    "homebanner": {
+        "title1": "MEDICAL PLATFORM",
+        "title2": "COMPREHENSIVE HEALTH CARE",
+        "child1": "Specialist examination",
+        "child2": "Remote examination",
+        "child3": "General examination",
+        "child4": "Test medicine",
+        "child5": "Spirit Health",
+        "child6": "Dental examination"
+    },
+    "section": {
+        "popular-specialty": "Popular Specialties",
+        "outstanding-clinic": "Outstanding Clinics",
+        "outstanding-doctor": "Weekly famous doctors",
+        "handbook": "Handbook",
+        "media": "Media",
+        "see-more": "See more",
+        "find": "Find more",
+        "all-post": "All posts"
+    },
+    "menu": {
+        "admin": {
+            "user": "User manage",
+            "doctor-manage": "Manage doctor",
+            "admin-manage": "Manage admin",
+            "crud": "CRUD",
+            "crud-redux": "CRUD Redux",
+            "clinic": "Clinic",
+            "clinic-manage": "Manage clinic",
+            "specialty": "Specialty",
+            "specialty-manage": "Manage specialty",
+            "handbook": "Handbook",
+            "handbook-manage": "Manage handbook"
+        },
+        "doctor": {
+            "manage-doctor": "Manage Doctor",
+            "manage-schedule": "Manage Schedule",
+            "manage-patient": "Manage Patient"
+        }
+    },
+    "manage-user": {
+        "title": "Manage user using Redux",
+        "add": "Add new user with Redux",
+        "email": "Email",
+        "password": "Password",
+        "firstname": "First Name",
+        "lastname": "Last Name",
+        "phonenumber": "Phone Number",
+        "address": "Address",
+        "gender": "Gender",
+        "position": "Position",
+        "roleId": "Role",
+        "image": "Avatar",
+        "save-btn": "Save user",
+        "edit-btn": "Save changes",
+        "upload": "Upload  "
+    },
+    "manage-doctor": {
+        "title": "Create doctor's information",
+        "choose-doctor": "Choose doctor",
+        "choose-date": "Choose date",
+        "save-information": "Save information"
+    },
+    "manage-patient": {
+        "title": "Manage the patient",
+        "choose-date": "Choose date",
+        "order": "Order",
+        "time": "Time",
+        "name": "Name",
+        "address": "Address",
+        "gender": "Gender",
+        "phone": "Phone Number",
+        "action": "Action",
+        "confirm": "Confirm",
+        "no-data": "No Data",
+        "title1": "Confirm the prescription",
+        "email": "Email",
+        "prescription": "Prescription"
+    },
+    "doctor-information": {
+        "title": "Add extra doctor's informations",
+        "choose-doctor": "Choose doctor",
+        "extra-information": "Description information",
+        "price": "Price",
+        "payment": "Payment method",
+        "province": "Province",
+        "clinic-name": "Clinic Name",
+        "clinic-address": "Clinic Address",
+        "note": "Note",
+        "specialty": "Specialty",
+        "clinic": "Clinic"
+    },
+    "pick-component": {
+        "schedule-title": "Examination schedule",
+        "extra-title1": "Pick",
+        "extra-title2": "and book (Book fee 0d)",
+        "no-schedule": "Doctor doesn't have schedule, please pick diffirent schedule"
+    },
+    "clinic": {
+        "address": "Address Clinic",
+        "price": "Price: ",
+        "show": " Show extra information ",
+        "hide": "Hide extra information ",
+        "title1": "Get priority medical care before visiting through BookingCare. The cost of medical examination for foreigners is 30 USD ",
+        "title2": "Patients can pay by:  "
+    },
+    "modal-booking": {
+        "header": "Appoint's information",
+        "price": "Price",
+        "firstName": "FirstName",
+        "lastName": "LastName",
+        "phoneNumber": "Phone number",
+        "email": "Email",
+        "gender": "Gender",
+        "address": "Address",
+        "reason": "Reason",
+        "submit": "Submit"
+    },
+    "specialty-manage": {
+        "title": "CREATE THE SPECIALTY INFORMATION",
+        "name-specialty": "Specialty Name",
+        "image-specialty": "Specialty Image",
+        "button-save": "Save"
+    },
+    "clinic-manage": {
+        "title": "CREATE THE CLINIC INFORMATION",
+        "name-specialty": "Clinic Name",
+        "image-specialty": "Clinic Image",
+        "address-specialty": "Clinic Address",
+        "button-save": "Save"
+    },
+    "see-more": {
+        "see": "See more"
+    }
+}

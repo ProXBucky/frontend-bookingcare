@@ -1,0 +1,53 @@
+.manage-patient-container {
+    margin: 0 100px;
+
+    .title {}
+
+    .up-content {
+        .date-pick {
+            cursor: pointer;
+        }
+    }
+
+    .down-content {
+        margin-top: 30px;
+
+        .list-patient {
+            table {
+                border-collapse: collapse;
+                width: 100%;
+                text-align: center;
+            }
+
+            th,
+            td {
+                border: 1px solid black;
+                padding: 10px;
+
+            }
+
+            button {
+                outline: none;
+                border: none;
+                padding: 5px 10px;
+                background-color: #0071ba;
+                color: white;
+                border-radius: 5px;
+            }
+
+
+            .loading-effect {
+                margin: 200px;
+            }
+
+        }
+    }
+
+
+}
+
+.manage-patient-container-2 {
+    display: flex;
+    justify-content: center;
+
+}

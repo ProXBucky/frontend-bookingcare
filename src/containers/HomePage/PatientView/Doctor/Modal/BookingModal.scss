@@ -1,0 +1,87 @@
+.booking-modal-container {
+    height: auto;
+
+    .modal-header {
+        width: 100%;
+    }
+
+    .modal-body {
+        .doctor-information {
+            .content-up {
+                display: flex;
+
+                .content-right {
+                    width: 80%;
+
+                    .doctor-name {
+                        color: #337ab7;
+                        font-size: 20px;
+                        font-weight: 600;
+                        width: 100%;
+                    }
+
+                    .date {
+                        font-size: 15px;
+                        width: 100%;
+                    }
+
+
+                    .price {
+                        border: 1px solid brown;
+                        width: 200px;
+                        height: 55px;
+                        padding: 5px;
+                        text-align: center;
+
+                        .price-display {
+                            font-size: 18px;
+                            color: brown;
+                        }
+                    }
+
+                }
+
+                .content-left {
+                    width: 20%;
+                    display: flex;
+
+                    .avatar {
+                        width: 120px;
+                        height: 120px;
+                        margin: auto;
+                        border-radius: 50%;
+                    }
+                }
+            }
+
+        }
+    }
+
+
+
+    .modal-footer {
+        height: 70px;
+
+        .button-save {
+            width: 100px;
+            height: 40px;
+            outline: none;
+            border: none;
+            padding: 2px 8px;
+            color: white;
+            background-color: #337ab7;
+        }
+
+        .button-cancel {
+            outline: none;
+            border: none;
+            padding: 2px 8px;
+            color: white;
+            background-color: red;
+            border-radius: 5px;
+
+        }
+    }
+
+
+}

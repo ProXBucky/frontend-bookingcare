@@ -1,0 +1,51 @@
+.clinic-container {
+    width: 100%;
+    padding: 10px 20px;
+    border-left: 1px solid #eee;
+    height: auto;
+
+    .clinic {
+
+        .clinic-title {
+            text-transform: uppercase;
+            font-size: 14px;
+            color: #666;
+            font-weight: bold;
+        }
+
+        .clinic-information {
+            padding: 10px 0px;
+
+            span:first-child {
+                font-weight: 600;
+            }
+        }
+    }
+
+    .price {
+        border-top: 1px solid #eee;
+        padding: 10px 0px;
+
+        table {
+            margin: 5px 0px;
+        }
+
+        td,
+        th {
+            font-weight: 200;
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        .hideShow {
+            color: #45c3d2;
+            cursor: pointer;
+        }
+
+        .price-table {
+            display: flex;
+            justify-content: space-between;
+        }
+    }
+}

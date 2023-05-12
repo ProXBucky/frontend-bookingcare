@@ -1,0 +1,108 @@
+.detail-clinic-container {
+    display: flex;
+    flex-direction: column;
+
+    .clinic-information {
+        // border: 1px solid green;
+        height: 600px;
+        padding: 0 200px;
+        // background: center center no-repeat;
+        background-size: contain;
+
+
+        .clinic-outer {
+            margin-top: 160px;
+            display: flex;
+            height: 160px;
+            box-shadow: rgba(32, 33, 36, 0.28) 0px 1px 6px;
+            background-color: rgba(255, 255, 255, 0.8);
+
+            .clinic-logo {
+                margin: 20px;
+                width: 15%;
+                background-size: cover;
+            }
+
+            .clinic-name-address {
+                padding: 30px;
+                width: 85%;
+
+                .name {
+                    font-size: 26px;
+                    font-weight: 700;
+                }
+
+                .address {
+                    font-size: 18px;
+                }
+            }
+        }
+
+        .extra-information-1 {
+            margin-top: 10px;
+            background-color: rgb(255, 236, 178);
+            height: 68px;
+            padding: 15px;
+            font-size: 15px;
+
+        }
+
+        .extra-information-2 {
+            margin-top: 15px;
+            background-color: #d4effc;
+            height: 152px;
+            padding: 15px;
+            font-size: 15px;
+        }
+    }
+
+    .list-doctors-by-clinic {
+        background-color: #eeeeee;
+        height: auto;
+
+        .container-body {
+            margin: 0 200px;
+            padding: 20px;
+            min-height: 200px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: row;
+            background-color: white;
+
+            .content-left {
+                width: 50%;
+                margin-top: 20px;
+                height: auto;
+
+                .see-more {
+                    margin: 10px 30px;
+
+                    .see-more-link {
+                        color: #45c3d2;
+                        cursor: pointer;
+                        text-decoration: none;
+                    }
+                }
+
+            }
+
+            .content-right {
+                width: 50%;
+                height: 200px;
+
+
+                .up {
+                    margin-top: 20px;
+                }
+
+                .down {
+                    margin-top: 15px;
+                }
+            }
+        }
+    }
+
+    .clinic-description {
+        margin-top: 75px;
+    }
+}

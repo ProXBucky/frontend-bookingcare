@@ -1,0 +1,45 @@
+.row {
+    height: 60px !important;
+}
+
+.avatar-container {
+    .upload {
+        padding: 5px;
+        border-radius: 5px;
+        background-color: #ddd;
+        cursor: pointer;
+    }
+
+
+}
+
+.preview-Img {
+    width: 310px;
+    right: 0;
+    border: 1px solid lightgrey;
+    height: 50px;
+    border-radius: 5px;
+    background: center center no-repeat;
+    background-size: contain;
+    cursor: pointer;
+}
+
+.button-save {
+    border: none;
+    padding: 8px;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    background-color: #0071ba;
+    border-radius: 5px;
+}
+
+.button-edit {
+    border: none;
+    padding: 8px;
+    outline: none;
+    cursor: pointer;
+    color: black;
+    background-color: yellowgreen;
+    border-radius: 5px;
+}

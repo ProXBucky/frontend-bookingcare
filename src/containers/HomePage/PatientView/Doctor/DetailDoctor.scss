@@ -1,0 +1,39 @@
+.detail-doctor {
+
+    .detail-doctor-container {
+        height: 100vh;
+
+        .doctor-information {
+            padding: 0 200px;
+            width: 100%;
+            height: 150px;
+        }
+
+        .book-calendar {
+            padding: 0 200px;
+            width: 100%;
+            height: auto;
+            display: flex;
+            // border: 1px solid red;
+
+            .schedule {
+                width: 50%;
+                // border: 1px solid blue;
+
+            }
+
+            .clinic {
+                width: 50%;
+                // border: 1px solid black;
+
+            }
+        }
+
+        .office {
+            padding: 20px 200px;
+            background-color: #f9f9f9;
+            // border: 1px solid #ccc;
+            height: auto;
+        }
+    }
+}

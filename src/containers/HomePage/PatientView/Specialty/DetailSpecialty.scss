@@ -1,0 +1,59 @@
+.detail-specialty {
+    .detail-specialty-body {
+        .specialty-description {
+            .specialty-name {
+                text-align: center;
+                font-size: 30px;
+                color: #45c3d2;
+            }
+
+            .specialty-extra-information {
+                margin: 0px 200px;
+            }
+        }
+
+        .doctor-filter-by-specialty {
+            background-color: #eeeeee;
+            height: auto;
+
+            .select-province {
+                margin: 10px 200px;
+                width: 200px;
+            }
+
+            .container {
+                display: flex;
+                flex-direction: row;
+                background-color: white;
+
+                .content-left {
+                    width: 50%;
+                    margin-top: 20px;
+
+                    .see-more {
+                        margin: 10px 30px;
+
+                        .see-more-link {
+                            color: #45c3d2;
+                            cursor: pointer;
+                            text-decoration: none;
+                        }
+                    }
+
+                }
+
+                .content-right {
+                    width: 50%;
+
+                    .up {
+                        margin-top: 20px;
+                    }
+
+                    .down {
+                        margin-top: 15px;
+                    }
+                }
+            }
+        }
+    }
+}

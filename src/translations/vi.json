@@ -1,0 +1,148 @@
+{
+    "homeheader": {
+        "specialty": "Chuyên khoa",
+        "findDoctor": "Tìm bác sĩ theo chuyên khoa",
+        "facility": "Cơ sở y tế",
+        "hospitalChoose": "Chọn bệnh viện phòng khám",
+        "doctor": "Bác sĩ",
+        "doctorChoose": "Chọn bác sĩ giỏi",
+        "checkup": "Gói khám",
+        "checkupHealth": "Khám sức khỏe tổng hợp",
+        "support": "Hỗ trợ",
+        "welcome": "Xin chào  "
+    },
+    "homebanner": {
+        "title1": "NỀN TẢNG Y TẾ",
+        "title2": "CHĂM SÓC SỨC KHỎE TOÀN DIỆN",
+        "child1": "Khám chuyên khoa",
+        "child2": "Khám bệnh từ xa",
+        "child3": "Khám tổng quát",
+        "child4": "Xét nghiệm y học",
+        "child5": "Sức khỏe tinh thần",
+        "child6": "Khám nha khoa"
+    },
+    "section": {
+        "popular-specialty": "Chuyên khoa phổ biến",
+        "outstanding-clinic": "Cơ sở y tế nổi bật",
+        "outstanding-doctor": "Bác sĩ nổi bật tuần qua",
+        "handbook": "Cẩm nang",
+        "media": "Truyền thông",
+        "see-more": "Xem thêm",
+        "find": "Tìm kiếm",
+        "all-post": "Tất cả bài viết"
+    },
+    "menu": {
+        "admin": {
+            "user": "Người dùng",
+            "doctor-manage": "Quản lý bác sĩ",
+            "admin-manage": "Quản lý admin",
+            "crud": "CRUD",
+            "crud-redux": "CRUD sử dụng Redux",
+            "clinic": "Phòng khám",
+            "clinic-manage": "Quản lý phòng khám",
+            "specialty": "Chuyên khoa",
+            "specialty-manage": "Quản lý chuyên khoa",
+            "handbook": "Cẩm nang",
+            "handbook-manage": "Quản lý cẩm nang"
+        },
+        "doctor": {
+            "manage-doctor": "Quản lý bác sỹ",
+            "manage-schedule": "Quản lý lịch khám",
+            "manage-patient": "Quản lý bệnh nhân"
+        }
+    },
+    "manage-user": {
+        "title": "Quản lý người dùng với Redux",
+        "add": "Tạo người dùng",
+        "email": "Email",
+        "password": "Mật khẩu",
+        "firstname": "Họ",
+        "lastname": "Tên",
+        "phonenumber": "Số điện thoại",
+        "address": "Địa chỉ",
+        "gender": "Giới tính",
+        "position": "Chức danh",
+        "roleId": "Vai trò",
+        "image": "Ảnh đại diện",
+        "save-btn": "Lưu người dùng",
+        "edit-btn": "Lưu thay đổi",
+        "upload": "Tải ảnh lên  "
+    },
+    "manage-doctor": {
+        "title": "Tạo thông tin bác sỹ",
+        "choose-doctor": "Chọn bác sỹ",
+        "choose-date": "Chọn ngày",
+        "save-information": "Lưu thông tin"
+    },
+    "manage-patient": {
+        "title": "Quản lý bệnh nhân",
+        "choose-date": "Chọn ngày",
+        "order": "STT",
+        "time": "Thời gian",
+        "name": "Họ tên",
+        "address": "Địa chỉ",
+        "gender": "Giới tính",
+        "phone": "SĐT",
+        "action": "Hành động",
+        "confirm": "Xác nhận",
+        "no-data": "Không có dữ liệu",
+        "title1": "Xác nhận đơn thuốc",
+        "email": "Địa chỉ Email",
+        "prescription": "Đơn thuốc"
+    },
+    "doctor-information": {
+        "title": "Tạo thêm thông tin bác sỹ",
+        "choose-doctor": "Chọn bác sỹ",
+        "extra-information": "Thông tin giới thiệu",
+        "price": "Giá khám",
+        "payment": "Phương thức thanh toán",
+        "province": "Tỉnh thành",
+        "clinic-name": "Tên phòng khám",
+        "clinic-address": "Địa chỉ phòng khám",
+        "note": "Ghi chú",
+        "specialty": "Chuyên khoa",
+        "clinic": "Phòng khám"
+    },
+    "pick-component": {
+        "schedule-title": "Lịch khám",
+        "extra-title1": "Chọn",
+        "extra-title2": "và đặt lịch (Phí đặt 0d)",
+        "no-schedule": "Bác sỹ không có lịch hẹn, vui lòng chọn lịch khác"
+    },
+    "clinic": {
+        "address": "ĐỊA CHỈ KHÁM ",
+        "price": "Giá khám: ",
+        "show": " Xem chi tiết ",
+        "hide": "Ẩn bảng giá ",
+        "title1": "Được ưu tiên khám trước khi đật khám qua BookingCare. Giá khám cho người nước ngoài là 30 USD ",
+        "title2": "Người bệnh có thể thanh toán chi phí bằng hình thức:  "
+    },
+    "modal-booking": {
+        "header": "Thông tin tạo lịch hẹn",
+        "price": "Giá",
+        "firstName": "Họ",
+        "lastName": "Tên",
+        "phoneNumber": "Số điện thoại",
+        "email": "Địa chỉ Email",
+        "gender": "Giới tính",
+        "address": "Địa chỉ",
+        "reason": "Lý do khám",
+        "submit": "Xác nhận"
+    },
+    "specialty-manage": {
+        "title": "Tạo thông tin chuyên khoa",
+        "name-specialty": "Tên chuyên khoa",
+        "image-specialty": "Ảnh minh họa",
+        "button-save": "Lưu thông tin"
+    },
+    "clinic-manage": {
+        "title": "Tạo thông tin phòng khám",
+        "address-specialty": "Địa chỉ phòng khám",
+        "name-specialty": "Tên phòng khám",
+        "image-specialty": "Ảnh minh họa",
+        "button-save": "Lưu thông tin"
+    },
+    "see-more": {
+        "see": "Xem thêm"
+    }
+}
