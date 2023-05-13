@@ -169,7 +169,7 @@ class ManagePatient extends Component {
                                                                     <td>{item.patientData.firstName} {item.patientData.lastName}</td>
                                                                     <td>{item.patientData.address}</td>
                                                                     <td>{languages.VI === this.props.language ? item.patientData.genderData.valueVi : item.patientData.genderData.valueEn}</td>
-                                                                    <td>{item.patientData.phoneNumber}</td>
+                                                                    <td>{item.patientData.phonenumber}</td>
                                                                     <td>
                                                                         <button
                                                                             onClick={() => this.handleSendPrescription(item)}
